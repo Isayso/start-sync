@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.start-sync" name="Start Resilio Sync" version="0.1.1" provider-name="
+MCB">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.pyamf" version="0.6.1"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>linux</platform>
+        <summary lang="en">Resilio Sync Starter</summary>
+        <language></language>
+        <description lang="en">Resilio Sync Starter</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <source></source>
+        <forum></forum>
+        <email></email>
+        <website></website>
+	</extension>
+</addon>
