@@ -1,5 +1,5 @@
 Install Resilio Sync on Raspberry PI  OSMC Media center
-
+(not possible on LibreELEC)
 
 sudo mkdir -p /opt/resilio/bin
 sudo mkdir /opt/resilio/app_files
