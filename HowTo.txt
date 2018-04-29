@@ -10,4 +10,4 @@ sudo tar -xvf resilio-sync_arm.tar.gz
 sudo rm -f resilio-sync_arm.tar.gz
 sudo ./rslsync --webui.listen 0.0.0.0:8888
 
-WebUI: IP of OSMC:8888
+WebUI: xxx.xxx.xxx.xxx:8888
